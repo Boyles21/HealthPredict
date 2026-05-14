@@ -1,0 +1,6 @@
+{
+  "name": "HealthPredict",
+  "description": "Predicting PCOS and uterine fibroids using machine learning based on user symptoms and health data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
